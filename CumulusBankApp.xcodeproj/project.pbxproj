@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		462B45462354EADF000F8B3F /* CumulusBankApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CumulusBankApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		462B45462354EADF000F8B3F /* Cumulus Bank.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Cumulus Bank.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		462B45492354EADF000F8B3F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		462B454B2354EADF000F8B3F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		462B454D2354EADF000F8B3F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		462B45472354EADF000F8B3F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				462B45462354EADF000F8B3F /* CumulusBankApp.app */,
+				462B45462354EADF000F8B3F /* Cumulus Bank.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = CumulusBankApp;
 			productName = CumulusBankApp;
-			productReference = 462B45462354EADF000F8B3F /* CumulusBankApp.app */;
+			productReference = 462B45462354EADF000F8B3F /* Cumulus Bank.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = corguzleo.CumulusBankApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Cumulus Bank";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = corguzleo.CumulusBankApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Cumulus Bank";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
